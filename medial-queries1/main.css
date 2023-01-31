@@ -6,16 +6,16 @@ body {
   min-width: 100%;
 }
 .a {
-display: flex;
-box-sizing: border-box;
-flex-grow: 1;
-margin-bottom: 10px;
-min-width: 100%;
-min-height: 300px;
-justify-content: center;
-align-self: flex-start;
-border: 2px solid;
-border-color: brown;
+  display: flex;
+  box-sizing: border-box;
+  flex-grow: 1;
+  margin-bottom: 10px;
+  width: 100%;
+  height: 300px;
+  justify-content: center;
+  align-self: flex-start;
+  border: 2px solid;
+  border-color: brown;
 }
 .b {
   display: inline-flex;
